@@ -2,7 +2,7 @@
 ![program file](sjf.c)
 
 #sample output
-![sample output] (Sampleoutput.png)
+![sample output](Sampleoutput.png)
 
 #Tested output
-![Tested output] (Testedoutput.png)
+![Tested output](Testedoutput.png)
