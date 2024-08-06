@@ -2,7 +2,7 @@
 ![Program File](RoundRobin.py)
 
 #sample output
-![Sample Output](sampleoutput.png)
+![Sample Output](sample_output.png)
 
 #executed output
-![Executed Output](executedoutput.png)
+![Executed Output](executed_output.png)
