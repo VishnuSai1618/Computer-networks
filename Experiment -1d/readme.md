@@ -2,7 +2,7 @@
 ![program file](Priority.py)
 
 #sample output
-![Sample output](SampleOutout.png)
+![Sample output](SampleOutput.png)
 
 #Executed Output
-!{Execuuted output}(Executed output.png)
+!{Executed output}(ExecutedOutput.png)
