@@ -5,4 +5,4 @@
 ![Sample output](SampleOutput.png)
 
 #Executed Output
-!{Executed output](ExecutedOutput.png)
+![Executed output](ExecutedOutput.png)
